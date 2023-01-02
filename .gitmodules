@@ -1,0 +1,60 @@
+[submodule "nearlyfreecollege.com"]
+	path = nearlyfreecollege.com
+	url = git@github.com:Digital-Brewers/nearlyfreecollege.com.git
+[submodule "itwastreason.com"]
+	path = itwastreason.com
+	url = git@github.com:Digital-Brewers/itwastreason.com.git
+[submodule "AiAnalyzePro"]
+	path = AiAnalyzePro
+	url = git@github.com:Digital-Brewers/AiAnalyzePro.git
+[submodule "ExploitationAir.com"]
+	path = ExploitationAir.com
+	url = git@github.com:Digital-Brewers/ExploitationAir.com.git
+[submodule "myadoptionnetwork.com"]
+	path = myadoptionnetwork.com
+	url = git@github.com:Digital-Brewers/myadoptionnetwork.com.git
+[submodule "fuckedbycvs.com"]
+	path = fuckedbycvs.com
+	url = git@github.com:Digital-Brewers/fuckedbycvs.com.git
+[submodule "Cheeto24.com"]
+	path = Cheeto24.com
+	url = git@github.com:Digital-Brewers/Cheeto24.com.git
+[submodule "stopgilead.com"]
+	path = stopgilead.com
+	url = git@github.com:Digital-Brewers/stopgilead.com.git
+[submodule "escapegilead.com"]
+	path = escapegilead.com
+	url = git@github.com:Digital-Brewers/escapegilead.com.git
+[submodule "azexcursions.com"]
+	path = azexcursions.com
+	url = git@github.com:Digital-Brewers/azexcursions.com.git
+[submodule "malebirthcontol.com"]
+	path = malebirthcontol.com
+	url = git@github.com:Digital-Brewers/malebirthcontol.com.git
+[submodule "philbible.com"]
+	path = philbible.com
+	url = git@github.com:Digital-Brewers/philbible.com.git
+[submodule "newpestservice.com"]
+	path = newpestservice.com
+	url = git@github.com:Digital-Brewers/newpestservice.com.git
+[submodule "fuckedbyVERIZON.com"]
+	path = fuckedbyVERIZON.com
+	url = git@github.com:Digital-Brewers/fuckedbyVERIZON.com.git
+[submodule "fuckedbyT-MOBILE.com"]
+	path = fuckedbyT-MOBILE.com
+	url = git@github.com:Digital-Brewers/fuckedbyT-MOBILE.com.git
+[submodule "fuckedbyATT.com"]
+	path = fuckedbyATT.com
+	url = git@github.com:Digital-Brewers/fuckedbyATT.com.git
+[submodule "digital-brewers.com"]
+	path = digital-brewers.com
+	url = git@github.com:Digital-Brewers/digital-brewers.com.git
+[submodule "Clown2024.com"]
+	path = Clown2024.com
+	url = git@github.com:Digital-Brewers/Clown2024.com.git
+[submodule "JacobLPhelps.com"]
+	path = JacobLPhelps.com
+	url = git@github.com:TheJakeP/JacobLPhelps.com.git
+[submodule "AIAnalyzePro.com-React"]
+	path = AIAnalyzePro.com-React
+	url = git@github.com:TheJakeP/AIAnalyzePro.com-React.git
